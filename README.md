@@ -1,11 +1,13 @@
 # abcemployees
 
 > A Vue.js project
-problem description and solution
-[case study] (https://docs.google.com/document/d/1Z-7GTgKxO_dfZunrdkhxwo01ycvJUnpdc4iOkF_eWUE/edit) 
+
 
 ## Build Setup
-
+```
+problem description and solution
+[case study] (https://docs.google.com/document/d/1Z-7GTgKxO_dfZunrdkhxwo01ycvJUnpdc4iOkF_eWUE/edit) 
+```
 ``` bash
 # install dependencies
 npm install
