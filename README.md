@@ -6,6 +6,7 @@
 [case study](https://docs.google.com/document/d/1Z-7GTgKxO_dfZunrdkhxwo01ycvJUnpdc4iOkF_eWUE/edit) 
 
 ## solution
+```bash
 >Description of the code.
 components - home.vue this contains records of all the employees in the company
            - datails.vue this contains records based on indivual
@@ -13,6 +14,8 @@ components - home.vue this contains records of all the employees in the company
 router - index.js here is where all the components are mapped to the routes and router
           renders them
  App.vue - the main component where all rendering takes place.
+ 
+ ```
 
 ## Build Setup
 
