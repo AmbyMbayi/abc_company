@@ -1,11 +1,21 @@
 # abcemployees
 
 > A Vue.js project
+## Description of the problem
 
+[case study](https://docs.google.com/document/d/1Z-7GTgKxO_dfZunrdkhxwo01ycvJUnpdc4iOkF_eWUE/edit) 
+
+## solution
+>Description of the code.
+components - home.vue this contains records of all the employees in the company
+           - datails.vue this contains records based on indivual
+           -contact.vue
+router - index.js here is where all the components are mapped to the routes and router
+          renders them
+ App.vue - the main component where all rendering takes place.
 
 ## Build Setup
-problem description and solution
-[case study](https://docs.google.com/document/d/1Z-7GTgKxO_dfZunrdkhxwo01ycvJUnpdc4iOkF_eWUE/edit) 
+
 
 ``` bash
 # install dependencies
